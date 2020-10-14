@@ -1,0 +1,22 @@
+body{
+  background-color: #EEE3CB;
+  font-family: serif;
+}
+
+.flashy{
+  color: red;
+  font-style: italic;
+}
+
+.best{
+  font-size: 30px;
+  font-weight: bold;
+}
+
+img{
+  width: auto;
+  height: 100px;
+}
+li{
+  display: inline-block;
+}
